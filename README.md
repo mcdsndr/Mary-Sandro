@@ -44,7 +44,7 @@
                     Virtual Design and Construction (VDC) Professional with <strong class="accent-blue">6 years of deep experience</strong> across infrastructure, residential, and industrial sectors. Specializing in **model integrity, multidisciplinary coordination, and 5D Quantity Takeoff**.
                 </p>
                 
-                <div class="flex flex-col md:flex-row md:space-x-6 space-y-4 md:space-y-0 items-start md:items-center">
+                <div class="flex flex-col md:flex-row md:space-x-6 space-y-4 md:space-y-0 items-start md:items-center mb-6">
                     <p class="text-xl font-bold accent-cyan">
                         Availability: DEC 1st Start
                     </p>
@@ -52,6 +52,12 @@
                         Ready for immediate relocation to Singapore, pending employment sponsorship.
                     </p>
                 </div>
+                
+                <!-- NEW CV Link added here -->
+                <a href="CV SANDRO_sg-1.pdf" target="_blank" class="text-md font-semibold underline hover:text-sky-400 accent-blue transition-colors">
+                    Download Full Curriculum Vitae (CV)
+                </a>
+
             </div>
         </section>
 
