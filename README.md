@@ -46,7 +46,7 @@
                 
                 <div class="flex flex-col md:flex-row md:space-x-6 space-y-4 md:space-y-0 items-start md:items-center mb-6">
                     <p class="text-xl font-bold accent-cyan">
-                        Availability: DEC 1st Start
+                        Availability: DEC 1st of 2025
                     </p>
                     <p class="text-lg text-gray-400 border-l border-gray-700 md:pl-6 pl-0">
                         Ready for immediate relocation to Singapore, pending employment sponsorship.
@@ -98,7 +98,7 @@
             <div class="bg-gray-900 rounded-xl p-8 border border-gray-700 shadow-2xl">
                 <h3 class="text-3xl font-bold text-white mb-2">Metropolitan Railway Project (Major Infrastructure)</h3>
                 <p class="text-md text-gray-400 mb-6">
-                    BIM Modeler / Authoring Lead - EEI Corporation
+                    BIM & VDC Specialist / Authoring Lead - EEI Corporation
                 </p>
                 <p class="text-lg text-gray-300 mb-6">
                     Managed BIM modeling, coordination, and documentation for a **22-km elevated railway project**. Key contributions include leading BIM teams, facilitating clash detection and resolution via Navisworks, and ensuring model accuracy for construction documentation across Architectural, Structural, and MEP disciplines.
@@ -188,7 +188,7 @@
                         <svg class="w-6 h-6 accent-cyan" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7 2a2 2 0 00-2 2v12a2 2 0 002 2h6a2 2 0 002-2V4a2 2 0 00-2-2H7zm3 15a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path></svg>
                         <span class="text-lg text-white font-medium">+63 9293505364 (WhatsApp/Viber)</span>
                     </div>
-                    <p class="text-sm text-gray-500 pt-4">Singapore Address (For documents): Summerdale, 2 Boon Lay Drive, S649925</p>
+                    <p class="text-sm text-gray-500 pt-4">Singapore Address (For documents): To be follow, S649925</p>
                 </div>
             </div>
         </section>
